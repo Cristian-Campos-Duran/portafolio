@@ -1,0 +1,158 @@
+[
+  {
+    "path": "/work/talento-tech/video-talento-tech-22d78ab4.mp4",
+    "size": 96589844,
+    "chunkSize": 8388608,
+    "prefix": "/_media/talento-tech",
+    "sourceDirectory": "media-source/talento-tech",
+    "sha256": "22d78ab4553bbfce090669594eab93d2f9284fdc44e1ff62c4205c55a9ad278b",
+    "chunkHashes": [
+      "19c1b8dcbb7e595d9542dab744d4f1f89330f441cdac6e3529879e18838b36f5",
+      "84b632b29ed1fb69864b8bda326e88c45005de687e57d6e2f056faa350d3c18b",
+      "4a0186384afea5589e7f973405b35217c29f9d9ff0c8843dcec12bcc4e17099b",
+      "42075c0ed2cf98137e987dba47ef5336f06c12d4a1623606a64c8fbd6a1cce45",
+      "e8d60ccfb460e4d2c3300f9ce44d8fefe5f8705bffcd22f9eb220508d938d655",
+      "d82b9553b1d0e154ef7ec51133f4728a70c21b6ea0783e98c90b54a923f69275",
+      "c044110448b8b2926f860d976f90abc5772298e230483dd12197554a9ffdbc93",
+      "3868b0940c7ae32498384dbab93d72cbfc02f241b74ff8a4d9548bca63f7bf93",
+      "84320866d17e89699a42eaf9286f8fe83c69e207a292eeb38ddff8d26cdfeda8",
+      "aee85092d2edf75b22f8bcdb41647205e4ad638f334243101cd4ffce26cf5ca0",
+      "b29870e42de2864860789c52c9b208617b46f77128294e6648ee9aaf1ef78107",
+      "5e19cff8e36a5529beaf62ef16f0a23ffa613074a57803431db0e3a39029182a"
+    ]
+  },
+  {
+    "path": "/work/avanzatec/video-avanzatec-6dce154c.mp4",
+    "size": 121237715,
+    "chunkSize": 8388608,
+    "prefix": "/_media/avanzatec",
+    "sourceDirectory": "media-source/avanzatec",
+    "sha256": "6dce154c3f9bf588711ba8a49f5629e507d61bf13b4fa96f2ff6f3ebeb969d09",
+    "chunkHashes": [
+      "e5857ad1df5e6357de69920be3126c9b0a8b6941a0b99998835bbde8f34efa7d",
+      "6e346daf579e60011222eabce8c367bac68a515b1b440ff9cd4ff95c3859c480",
+      "1770637f664d039be3b43cad2bd288dd7140e38fa1e3f46a781b3be4f527ccba",
+      "cb78cdd87431fcdcae735c879dc876b21c649131342da04e0bc0289318a56fd5",
+      "cc827cbd76ce577d433250d92fa8714cc49a2a9dedc0cec6c19c5911b4c765cc",
+      "cebeca10ae1968b397ea56ade19de431fcdc4cc3746a478a78c9e87c99431d3f",
+      "0ca395cec96d5feb193fb8f89af416e9710e9fab676af68e01ff5c8574beab83",
+      "21970cbac1764e81b4e150a8cb77acc79e5d6f9fcbd47d1ba959508580df0beb",
+      "f6515b7117647c9a96b05e1207142032a2f21cac87d37c94b535b8d846b9d3c3",
+      "dfa9aef4b4c8bebadb2871c2627f57effb95ff60c9cf06c10ddd15e07b171eed",
+      "d9eedfc6adcd394e3efcb75457f07b704b99b1c819d13bc466ba3303159d081a",
+      "185593496dd3af3aaeea1338858df424078a9b7ceb4c5f62fd292a8b3a9f1e89",
+      "0f1e853fbe9e15c3ad30de61ecf79ca8e605400634085838373bc3a459d1b4ea",
+      "a8447babb5c647b1cb6e4923f6ca991837c5e2ee77c11212b50a1b3af66e137a",
+      "db685620d6c080f20eadd401ca15a121c3df83e70a84249ec687a3c0c81f288a"
+    ]
+  },
+  {
+    "path": "/work/amared-inaugural/video-bienvenida-amared-c611d3c8.mp4",
+    "size": 121201490,
+    "chunkSize": 8388608,
+    "prefix": "/_media/amared-inaugural",
+    "sourceDirectory": "media-source/amared-inaugural",
+    "sha256": "c611d3c8a92f6d361c83942d58bf3ab9a416fdc4ea1cb8a323893ad4bb1d9e20",
+    "chunkHashes": [
+      "80d2592c98100b9f23f7b3d9816d372ad74d0a565b7a8d89780da381be515889",
+      "e266e6250ca8259ec6c7faecfd63658796fdb93301c69595401490b8fd71f098",
+      "e1725a4d0dc9452644f3e916a647f815cb859a97cf03906b3fa103fb61e138f3",
+      "3d96e1d891b9f4189f796d919b6f107a16cabbf907a52145924ac29b56fcc26a",
+      "b9435dc329e68fba42beb75c72b4356c113e026cac541c162ddfddb07e9001a8",
+      "3461ef9b7af6882ca3d3b4a847a3ad4c8190e0eb740e598b5ecc877b3710c037",
+      "1a48a6fb81a1f94e9f1da1b853db3a6e274717a8c0692820f28eec609281c876",
+      "8a27faf87db529fa539b80af1515712e410b2491848acde36932538159360819",
+      "0e4bd1b42dc34394d4ddd605fef0875f312497700b9441983d7c18a5c0c3131c",
+      "d51a641246a787a5f8ef2f3d939c9ce08215116933a231974524891580cdc8ca",
+      "a8ebefda9f3c736d43cf8505e047ef52121224b2574bbed0bfc7479b0484816b",
+      "47ef52b5442a4dd43bac02c9da3f77b9834f13a5c7dc01a1d32342e7dbbf1673",
+      "92af120e96c430038a143c4433cfbd9d639ce17febeded0f5a74d94cea42d0ec",
+      "efba71590ca93ccbb5aea5047f700081098d7177916158d7c902f09f8b6388da",
+      "cc89142e061a3b645a0d2e7fdc20426304dee44a2aa34e0ae678b61cf55ab19b"
+    ]
+  },
+  {
+    "path": "/work/veterinaria/video-top3-bb359b99.mp4",
+    "size": 75339875,
+    "chunkSize": 8388608,
+    "prefix": "/_media/veterinaria",
+    "sourceDirectory": "media-source/veterinaria",
+    "sha256": "bb359b99beaa7e30f7d92dc279accb399e51a3d38bcac65f9d9307f1ed9f9c2d",
+    "chunkHashes": [
+      "ff1ae3bddbf9e8d74d8ee1fa762adc773eff69759ffbf105f0a59a1023a6a5e0",
+      "77ac7d8448d165139c22e7e6e571b6b83002c3c40b72e027bdedc227fa6af54f",
+      "fc1d3d6e68bfd9bca44208e0f181f87ecdbefe7c9497ef6f62f671dd3359ff6a",
+      "5c4aec8ab9a43bf2748f263944689fe6f48466d4d5ecef91bd1166b96d381ed8",
+      "14cd6590976a9abb67388155156f410f9ab34af424fa5783a2e3f0944e543099",
+      "a20e50e2176b27999ad357b66acbc76755e4cab9c8093002218cad1fb2815eef",
+      "e162734609b63646d5e633b5c027fd0e3064840f9c0129a27112581a5f32b61c",
+      "ee6e0181b3661f5dc0c13c65cbeefa5839ede6e45d908e6a1d78cced11a02897",
+      "6584e28ba3daa20cc8b5a760ca2526497b7ad2b666e70fcb91353f4dc56e00b1"
+    ]
+  },
+  {
+    "path": "/work/proceso/avanzatec-85a32918.mp4",
+    "size": 55996839,
+    "chunkSize": 8388608,
+    "prefix": "/_media/proceso-avanzatec",
+    "sourceDirectory": "media-source/proceso-avanzatec",
+    "sha256": "85a32918c1d1ae0749bfccf9591c5e9d0d753277f3c6e33ec51c8a2ce70f1c0d",
+    "chunkHashes": [
+      "680710448315c9dcfb671f2b6502666e8d3f22d10a5eda8b214fdf12cd6e12bd",
+      "c40d7593c78735591acecd062e5cf7a1f73186cc08f888aaa2f5fccd666a45ca",
+      "ef94b0a5716fbb507ac3e3a4b51af483fdf39f6f99fe969bd8c53dde97ea0fed",
+      "e99435aa1ee4112913e441ecbcabc9757fd78ebc5b581f13168d27b215cc1fda",
+      "c5899754f4fed159977b6591890786550c9aee6dbd4f2408166b1302e54546d0",
+      "7d19edf3dff8fda4af924287094d63a200484a9732b6613bdb08239d03b9a588",
+      "1886810b5731c69084754ac6efaa83fd5feb636a1af00edce25bbdf9fa864d6d"
+    ]
+  },
+  {
+    "path": "/work/proceso/talento-tech-6313a4a0.mp4",
+    "size": 44520695,
+    "chunkSize": 8388608,
+    "prefix": "/_media/proceso-talento-tech",
+    "sourceDirectory": "media-source/proceso-talento-tech",
+    "sha256": "6313a4a0d09aa8b0a23c8eca3161d9b3d1628e95a00eaadec154102547b75955",
+    "chunkHashes": [
+      "49a494e1f7253208a35547ea749f266289c155e76a0dbaae186c09e9c8676380",
+      "24168a83c8f40cefdc78f485e85cad9a3a25f868bdea97fff6987684c0813762",
+      "c6b2c9048f4f55ded93e2e82375ff0429fd83db16c3c416efc602ace4b3031f6",
+      "3810f187eb883e5acdb73c6494f4095c91750310797a41f61c2f68b7365c462b",
+      "80bfbcee3d96c46bd236f72e8a4243e6eaa500d09266038efd1c6a18425a0b0c",
+      "8e3d50d83b2fccf2a3ed0edbc5d13a9fc08ece9c43b2f0ccfa265670655a10e2"
+    ]
+  },
+  {
+    "path": "/work/proceso/amared-c475debf.mp4",
+    "size": 54712467,
+    "chunkSize": 8388608,
+    "prefix": "/_media/proceso-amared",
+    "sourceDirectory": "media-source/proceso-amared",
+    "sha256": "c475debf546b0480873537c1a934a56065732f6383fbbe436e916aa333a60da5",
+    "chunkHashes": [
+      "fcb64b07871be3bcfc799e69f187ceae34a22a1eb319c39f111f330af7bd5b9d",
+      "7697d5ed0768b21a43e9eed09cf96391ba4b15b7e417e2af997ad72d99691395",
+      "a9b2f90aa30b9ef39085dfc09cec67fdb9ac8a1b25b29082fb6c27989958a830",
+      "5fa6a668d154c46ca62add77c4267e75d0d8acce40b0b19a8017221d32b7cb43",
+      "5ebef548ebff873ac641b562e6a8c5c6d7fa1074108cd85774dfef0c6a3f4194",
+      "5ffe531c0a8396fd1dd049873bf77fae3810cd56eccdea638c69bf17988db444",
+      "7e4d5f1492ac660c932a1476ea5993065075ec81a4cb961f438092c84fa2d9d9"
+    ]
+  },
+  {
+    "path": "/work/proceso/veterinaria-4f0d8dcd.mp4",
+    "size": 35985083,
+    "chunkSize": 8388608,
+    "prefix": "/_media/proceso-veterinaria",
+    "sourceDirectory": "media-source/proceso-veterinaria",
+    "sha256": "4f0d8dcd14b0a9158051b47c3d5c7e906b45c6c7f9714f8a02f7ff0d32a59e95",
+    "chunkHashes": [
+      "356abf658242e31e3291da1936262dad1c36ffd78780c3d0b5b4ebed8af81364",
+      "2f40018dfa68dce5c80c36d4079567d81bdfc1e13316a9717561e976ad8632cc",
+      "4f413cb96645865feb2d19ffcd963fe1bd124d38f13387f58d16983d94b09103",
+      "224ef5589bcb1f4ca1790d364ee723486efca7be6d62303967485c7782c6f084",
+      "bdc431aaf760e671e53aff3d86001f5877f8c85d7b76621f90aa2b87017dd0e3"
+    ]
+  }
+]

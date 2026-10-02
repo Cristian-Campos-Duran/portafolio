@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/work/miniaturas/Miniatura-Cuadrada-AMARED.webp",
+    "size": 129396,
+    "sha256": "ae2ec35cd8c6328c5d963273ed8a417a22322f3fd17478b7620a8b31c9cc25b1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": "Imagenes-faltantes-formato-cuadrado.zip"
+  },
+  {
+    "path": "/work/miniaturas/Miniatura-Cuadrada-TikTok.webp",
+    "size": 280334,
+    "sha256": "548e48c983873f09b72f8a63cf0b48c6cc0fa452e884b0a9848980e1c4b0f450",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": "Imagenes-faltantes-formato-cuadrado.zip"
+  }
+]

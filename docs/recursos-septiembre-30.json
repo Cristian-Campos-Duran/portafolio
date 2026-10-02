@@ -1,0 +1,65 @@
+[
+  {
+    "original": "Videos-Edicion/Videos-Edicion-AvanzaTec.mp4",
+    "path": "/work/proceso/avanzatec-85a32918.mp4",
+    "size": 55996839,
+    "sha256": "85a32918c1d1ae0749bfccf9591c5e9d0d753277f3c6e33ec51c8a2ce70f1c0d",
+    "dimensions": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "original": "Videos-Edicion/Videos-Edicion-TalentoTech.mp4",
+    "path": "/work/proceso/talento-tech-6313a4a0.mp4",
+    "size": 44520695,
+    "sha256": "6313a4a0d09aa8b0a23c8eca3161d9b3d1628e95a00eaadec154102547b75955",
+    "dimensions": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "original": "Videos-Edicion/Videos-Edicion-Bienvenida.mp4",
+    "path": "/work/proceso/amared-c475debf.mp4",
+    "size": 54712467,
+    "sha256": "c475debf546b0480873537c1a934a56065732f6383fbbe436e916aa333a60da5",
+    "dimensions": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "original": "Videos-Edicion/Videos-Edicion-Veterinaria.mp4",
+    "path": "/work/proceso/veterinaria-4f0d8dcd.mp4",
+    "size": 35985083,
+    "sha256": "4f0d8dcd14b0a9158051b47c3d5c7e906b45c6c7f9714f8a02f7ff0d32a59e95",
+    "dimensions": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "original": "Miniaturas Faltantes/Carrusel-TikTok-Horizontal.webp",
+    "path": "/work/miniaturas/tiktok-horizontal.webp",
+    "size": 287870,
+    "sha256": "bd38f53740ce6c119297ebfbd4dcca2b2c9354a03f4cfc08404fcc28b56d515e"
+  },
+  {
+    "original": "Miniaturas Faltantes/Miniatura-Horizontal-Red-Egresados.webp",
+    "path": "/work/miniaturas/unad-horizontal.webp",
+    "size": 230664,
+    "sha256": "752318b1894386181e1fd49503623d81029554010887d5a8a530ff9148c4c733"
+  },
+  {
+    "original": "PORTAFOLIO_CRISTIAN_WORK/05_PROYECTOS/01_BUENA_EDICION/01_miniatura_showreel.png",
+    "path": "/work/miniaturas/Miniatura-Vertical-Servicio_Editor.png",
+    "size": 1927203,
+    "sha256": "4323d28670f1ded3dee138f6a01edb16f1041ad129425d1e53797f9d70bd2623",
+    "dimensions": [
+      941,
+      1672
+    ],
+    "note": "Recuperada del respaldo de recursos original; renombrada según la petición. No convertida."
+  }
+]

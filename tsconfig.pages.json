@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "incremental": false, "plugins": [] },
+  "include": ["static-site/**/*.tsx"],
+  "exclude": ["node_modules", "backups", "dist", "dist-pages"]
+}
